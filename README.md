@@ -24,9 +24,6 @@ Use an Unsupervised Machine Learning approach with a clustering algorithm to gro
 
 See `crypto_clustering.ipynb`
 
-Note: My removal of trailing whitespace from entries in the `ProofType` field of `crypto_data.csv` resulted in 97 columns for the X DataFrame, rather than the 98 as shown in the provided Starter Code.
-In the provided Starter Code, 'ProofType_PoW/PoS' appears twice as a column, because 'PoW/PoS' appears in the original unmodified source data as both 'PoW/PoS' and 'PoW/PoS '.
-
 ### Deliverable 2
 
 See `crypto_clustering.ipynb`
